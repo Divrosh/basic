@@ -3,3 +3,4 @@ if inp%2==0:
     print("Even")
 else:
     print("Odd")
+print("Even and Odd")
